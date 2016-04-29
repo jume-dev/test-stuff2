@@ -1,0 +1,11 @@
+{
+  "html": {
+    "use": true
+  },
+  "cpp11": {
+    "use": true
+  },
+  "ws": {
+    "use": false
+  }
+}
